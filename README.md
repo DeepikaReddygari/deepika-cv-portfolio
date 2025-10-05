@@ -4,8 +4,6 @@
 
 **Files**
 - `CV.pdf` — Academic CV
-- `research_summary.pdf` — 1-page summary: TES + how it maps to grid planning
-- `poster_preview.png` — poster PNG preview
 
 **Quick summary**
 My work combines experimental PCM modules with compact Python models to provide planners with calibrated thermal storage representations for capacity expansion and demand-response studies.
